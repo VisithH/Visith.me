@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Visith-Bro
-- 👀 I’m interested in Graphic Designing and Photography
+- 👋 Hi, I’m Visith Ilayperuma
+- 👀 I am a Front End Developer and a Graphic Designer
 - 🌱 I’m currently learning at Richmond College
 
 <!---
